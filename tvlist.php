@@ -1,17 +1,26 @@
-{"Auth": "true",
+﻿{"Auth": "true",
 "Announcement": " ",
 "Date": "",
 "IsTrial": "false",
 "LoginName": "666666",
-"Channel": [{"CategoryName":"IPTV","Password":"","Channel":[
-{"Id":1,"Num":"1","Name":"���̨(���Ű�)","Url":"msc://CJMacau5"},
-{"Id":2,"Num":"2","Name":"���̨(���ް�)","Url":"msc://CJAU5"},
-{"Id":3,"Num":"3","Name":"�Ǻ�Ƶ��","Url":"msc://CXHMovie"},
-{"Id":4,"Num":"4","Name":"����̨","Url":"msc://CKF5"},
-{"Id":5,"Num":"5","Name":"����̨","Url":"msc://CKDrama5"},
-{"Id":6,"Num":"6","Name":"����̨","Url":"msc://CIN5"},
-{"Id":7,"Num":"7","Name":"�ƾ�̨","Url":"msc://CFinance"},
-{"Id":8,"Num":"8","Name":"����Ƭ","Url":"msc://CCMovie"},
-{"Id":9,"Num":"9","Name":"������������̨","Url":"msc://CTVBSAsia"}
+"Channel": [{"CategoryName":"TVBANYWHERE","Password":"","Channel":[
+{"Id":1,"Num":"1","Name":"翡翠台(澳门版)","Url":"msc://CJMacau5"},
+{"Id":2,"Num":"2","Name":"翡翠台(澳洲版)","Url":"msc://CJAU5"},
+{"Id":3,"Num":"3","Name":"翡翠台(香港时区)","Url":"msc://CJHK5"},
+{"Id":4,"Num":"4","Name":"翡翠台(英国时区)","Url":"msc://CJUK5"},
+{"Id":5,"Num":"5","Name":"翡翠台(美加东岸时区)","Url":"msc://CJCA5E"},
+{"Id":6,"Num":"6","Name":"翡翠台(美加西岸时区)","Url":"msc://CJCA5W"},
+{"Id":7,"Num":"7","Name":"TVB星河频道","Url":"msc://CXHMovie"},
+{"Id":8,"Num":"8","Name":"TVB功夫台","Url":"msc://CKF5"},
+{"Id":9,"Num":"9","Name":"TVB韩剧台","Url":"msc://CKDrama5"},
+{"Id":10,"Num":"10","Name":"TVB新闻台","Url":"msc://CIN5"},
+{"Id":11,"Num":"11","Name":"TVB财经台","Url":"msc://CFinance"},
+{"Id":12,"Num":"12","Name":"TVB粤语片","Url":"msc://CCMovie"},
+{"Id":13,"Num":"13","Name":"TVB直播台","Url":"msc://CTVBL5"},
+{"Id":14,"Num":"14","Name":"TVB娱乐新闻","Url":"msc://CEN5"},
+{"Id":15,"Num":"15","Name":"88台赛马直播","Url":"msc://CH88"},
+{"Id":16,"Num":"16","Name":"凤凰卫视资讯台","Url":"msc://CPhNews"},
+{"Id":17,"Num":"17","Name":"凤凰卫视香港台","Url":"msc://CPhoenixHK4"},
+{"Id":18,"Num":"18","Name":"无线卫星亚洲台","Url":"msc://CTVBSAsia"}
 ]}
 ]}
