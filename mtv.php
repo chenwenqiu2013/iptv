@@ -1,4 +1,4 @@
-﻿{"Auth": "true",
+﻿{"Auth": "false",
 "Announcement": " ",
 "Date": "",
 "IsTrial": "false",
