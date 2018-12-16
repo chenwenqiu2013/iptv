@@ -3,7 +3,7 @@
 "Date": "",
 "IsTrial": "false",
 "LoginName": "666666",
-"Channel": [{"CategoryName":"TVBANYWHERE","Password":"","Channel":[
+"Channel": [{"CategoryName":"IPTV","Password":"","Channel":[
 {"Id":1,"Num":"1","Name":"翡翠台(澳门版)","Url":"msc://CJMacau5"},
 {"Id":2,"Num":"2","Name":"翡翠台(澳洲版)","Url":"msc://CJAU5"},
 {"Id":3,"Num":"7","Name":"星河频道","Url":"msc://CXHMovie"},
