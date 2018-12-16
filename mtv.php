@@ -12,6 +12,6 @@
 {"Id":6,"Num":"10","Name":"新闻台","Url":"msc://CIN5"},
 {"Id":7,"Num":"11","Name":"财经台","Url":"msc://CFinance"},
 {"Id":8,"Num":"12","Name":"粤语片","Url":"msc://CCMovie"},
-{"Id":14,"Num":"15","Name":"无线卫星亚洲台","Url":"msc://CTVBSAsia"}
+{"Id":14,"Num":"13","Name":"无线卫星亚洲台","Url":"msc://CTVBSAsia"}
 ]}
 ]}
