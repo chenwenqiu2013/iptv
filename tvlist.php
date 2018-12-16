@@ -1,4 +1,4 @@
-﻿{"Auth": "false",
+﻿{"Auth": "ture",
 "Announcement": " ",
 "Date": "",
 "IsTrial": "false",
